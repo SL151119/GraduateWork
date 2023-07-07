@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e6b2cff08430274498e6665703f7fbe, type: 3}
+  m_Name: ItemsConfigsHolder
+  m_EditorClassIdentifier: 
+  itemsConfigs:
+  - id: 0
+    price: 1000
+    name: Hammer
+    sprite: {fileID: 21300000, guid: 7439381cbb74b7c419afa2d3ab0c33ec, type: 3}
+  - id: 1
+    price: 1300
+    name: Tool
+    sprite: {fileID: 21300000, guid: 61a73ae7e73e9b84aa84922bfd4fe377, type: 3}
+  - id: 2
+    price: 2500
+    name: Tape
+    sprite: {fileID: 21300000, guid: 960d59132a1bca24cb3e5ba11522e7ed, type: 3}
+  - id: 3
+    price: 7000
+    name: Gas
+    sprite: {fileID: 21300000, guid: aecfe2956f0d68e4c84a1698247377b5, type: 3}
+  - id: 4
+    price: 10000
+    name: Chip
+    sprite: {fileID: 21300000, guid: 4d44aa3e6f8bfbc49af6fcca96dd5cbb, type: 3}
+  - id: 5
+    price: 13000
+    name: Microchip
+    sprite: {fileID: 21300000, guid: 3468be5ea5709c54f8c839d081fa5a4e, type: 3}

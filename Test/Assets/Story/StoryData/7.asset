@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f413f64c1cb46940b3b4a7a65a8283d, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: On a fateful day, aboard the rocket named "Odyssey", Ethan embarked on
+      historic journey. The exhilaration of leaving Earth's atmosphere was indescribable,
+      and he marveled at the vastness of space stretching before him.
+  nextText: {fileID: 11400000, guid: b568d802107ee3d4bbf9a665a521c57d, type: 2}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adef3688cb86743499d736b10ee737ee, type: 3}
+  m_Name: FactoriesUpgradeSystem
+  m_EditorClassIdentifier: 
+  upgradeEntities:
+  - factoryId: 0
+    level: 0
+    upgradesCost: e8030000d0070000fc080000b80b0000a00f0000
+    capacityLevels: 140000001e00000028000000320000003c000000
+    productionSpeedLevels:
+    - 3
+    - 2.5
+    - 2
+    - 1.5
+    - 1
+  - factoryId: 1
+    level: 0
+    upgradesCost: b80b0000a00f0000941100008813000070170000
+    capacityLevels: 1e000000320000003c0000004100000046000000
+    productionSpeedLevels:
+    - 5
+    - 4
+    - 3.5
+    - 3
+    - 1.5
+  - factoryId: 2
+    level: 4
+    upgradesCost: a00f0000881300007017000064190000581b0000
+    capacityLevels: 140000001e00000028000000320000003c000000
+    productionSpeedLevels:
+    - 3
+    - 2.5
+    - 2
+    - 1.5
+    - 1
+  - factoryId: 3
+    level: 0
+    upgradesCost: 8813000070170000581b00003421000028230000
+    capacityLevels: 140000001e00000028000000320000003c000000
+    productionSpeedLevels:
+    - 3
+    - 2.5
+    - 2
+    - 1.5
+    - 1
+  - factoryId: 4
+    level: 0
+    upgradesCost: 70170000581b0000401f00002823000010270000
+    capacityLevels: 140000001e00000028000000320000003c000000
+    productionSpeedLevels:
+    - 3
+    - 2.5
+    - 2
+    - 1.5
+    - 1
+  - factoryId: 5
+    level: 0
+    upgradesCost: 10270000f82a0000e02e0000d4300000c8320000
+    capacityLevels: 140000001e00000028000000320000003c000000
+    productionSpeedLevels:
+    - 3
+    - 2.5
+    - 2
+    - 1.5
+    - 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f413f64c1cb46940b3b4a7a65a8283d, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "As Ethan approached adulthood, news spread of a new space agency accepting
+      applications for aspiring astronauts. Without a moment's hesitation, he submitted
+      his application, pouring his heart and soul into the personal statement. \n\nMonths
+      later, he received a letter that would change his life forever..."
+  nextText: {fileID: 11400000, guid: 71ed710e747487f4984a1132e688aab3, type: 2}

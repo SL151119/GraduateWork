@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f413f64c1cb46940b3b4a7a65a8283d, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Once upon a time, in a small town nestled in the countryside, there lived
+      a young boy named Ethan Sullivan. From an early age, Ethan was captivated by
+      the mysteries of the universe. He would spend countless hours gazing at the
+      stars, dreaming of venturing beyond Earth's boundaries. His imagination soared
+      as he devoured books on space exploration, idolizing astronauts and their daring
+      expeditions.
+    russianText: 
+  nextText: {fileID: 11400000, guid: 437e4bc1195815242a6cba80a29bf3e4, type: 2}
